@@ -1,0 +1,23 @@
+.img-container{
+  display: flex;
+  
+  align-items: center;
+  
+  justify-content: space-around;
+  margin: 9em auto 10em;
+}
+img{
+  width: 150px;
+  height: 150px;
+}
+.card-container{
+  
+    text-align: center;
+    height: 20px;
+    
+    
+}
+.moreNewsButton{
+  align-content: center;
+  margin: 20 auto 10;
+}
